@@ -1,0 +1,324 @@
+ /*Extra small devices portrait phones, less than 576px*/
+@media (max-width: 575.98px) { 
+    .logo {
+        margin-left: 8px;
+    }
+    .menu ul li a {
+        margin: -5px;
+        margin-left: 8px;
+       }
+       .navbar-toggler:hover {
+        margin-right: 10px !important;
+    }
+   .line-screen {
+    margin-left: 92px;
+    margin-right: 254px;
+   }
+   .line-screen2 {
+    margin-left: 255px !important;
+    margin-right: 91px;
+    margin-top: -42px
+   }
+   .line-screen3 {
+    margin-left: 250px !important;
+    margin-right: 97px;
+    margin-top: -41px !important;
+   }
+   .s-img {
+   margin-top: 0px;
+   }
+   .ab-title {
+       margin-bottom: 21px;
+   }
+   .service {
+       margin-top: 100px;
+   }
+   .service-title p {
+       text-align: justify;
+       padding: 5px;
+       font-size: 15px;
+   }
+   .test-p {
+       text-align: justify;
+   }
+   .test-pad {
+       padding: 14px;
+   }
+   .test-h2 {
+       font-size: 20px;
+       margin-top: 17px;
+   }
+   .social-links ul li a i {
+       font-size: 26px;
+       margin: 0px;
+   
+   }
+   .footer-title p {
+    margin-left: 20px;
+}
+   .list-inline {
+    text-align: center;
+}
+   .s_text h1 {
+    font-size: 20px;
+}
+   .s_text {
+    margin-top: -38px;
+    padding: 0px;
+    text-align: center;
+    margin-bottom: 74px;
+}
+.s_text h2 {
+    font-size: 17px;
+}
+.s_text p {
+    display: none;
+}
+.banner-button {
+    margin-top: 16px;
+}
+.about-us {
+    font-size: 22px;
+    margin-top: -31px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.asc-title h3 {
+    font-size: 19px;
+    margin-top: 20px;
+    text-align: justify;
+}
+.asc-title p {
+    text-align: justify;
+}
+.fe-h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.f-p {
+    font-size: 16px;
+    margin-bottom: 27px;
+}
+.service-title h2 {
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+   .feature-icon {
+    text-align: center;
+   }
+
+   .feature-icon i {
+    font-size: 30px;
+    transition: .3s;
+    margin-bottom: 25px;
+}
+.fe-title {
+    text-align: center;
+}
+.test {
+    display: none;
+}
+.f-logo {
+    width: 100%;
+    text-align: center;
+}
+.logo-p {
+
+    text-align: center;
+}
+.f-title {
+    text-align: center;
+}
+.f-title p a {
+    font-size: 16px;
+}
+.f-h1 {
+    font-size: 20px;
+    text-align: center;
+}
+.c-p {
+    text-align: center;
+}
+}
+ /*slider end*/
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .menu ul li a {
+        margin: -4px;
+           margin-left: 5px;
+       }
+   .line-screen {
+    margin-left: 104px !important;
+    margin-right: -11px !important;
+   }
+   .line-screen2 {
+    margin-left: -37px !important;
+    margin-right: 132px !important;
+   }
+   .line-screen3 {
+    margin-left: -43px !important;
+    margin-right: 139px !important;
+   }
+   .line-2 {
+    margin-top: 26px;
+    background-color: #ffbb03;
+    height: 1px;
+}
+   .ab-title {
+       margin-bottom: 21px;
+   }
+   .service {
+       margin-top: 100px;
+   }
+   .service-title p {
+       text-align: justify;
+       padding: 5px;
+       font-size: 15px;
+   }
+   .test-p {
+       text-align: justify;
+   }
+   .test-pad {
+       padding: 14px;
+   }
+   .test-h2 {
+       font-size: 20px;
+       margin-top: 17px;
+   }
+   .social-links ul li a i {
+       font-size: 26px;
+       margin: 0px;
+   
+   }
+   .s_text {
+    margin-top: 68px;
+    padding: 0px;
+    text-align: center;
+}
+.about-us {
+    font-size: 30px;
+    margin-top: 6px;
+    margin-bottom: 30px;
+}
+.asc-title h3 {
+    font-size: 20px;
+}
+.asc-title p {
+    text-align: justify;
+}
+.service-title h2 {
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+   .feature-icon {
+    text-align: center;
+   }
+
+   .feature-icon i {
+    font-size: 30px;
+    transition: .3s;
+    margin-bottom: 25px;
+}
+.fe-title {
+    text-align: center;
+}
+.test {
+    padding: 50px;
+}
+
+}
+
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+ 
+    .menu ul li a {
+     margin: -4px;
+        margin-left: 5px;
+    }
+.line-screen {
+    width: 60px !important;
+    margin-left: 166px !important;
+}
+.line-screen2 {
+    margin-left: -181px !important;
+    margin-right: 215px !important;
+}
+.line-screen3 {
+    margin-left: -193px !important;
+    margin-right: 229px !important;
+}
+.line-2 {
+    margin-top: 25px;
+    background-color: #ffbb03;
+    height: 1px;
+}
+.ab-title {
+    margin-bottom: 21px;
+}
+.service {
+    margin-top: 100px;
+}
+.service-title h2 {
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+.service-title p {
+    text-align: justify;
+    padding: 5px;
+    font-size: 15px;
+}
+.test-p {
+    text-align: justify;
+}
+.test-pad {
+    padding: 14px;
+}
+.test-h2 {
+    font-size: 20px;
+    margin-top: 17px;
+}
+.social-links ul li a i {
+    font-size: 26px;
+    margin: 0px;
+
+}
+.s_text {
+    margin-top: 53px;
+    padding: 3px;
+}
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .s_text {
+        margin-top: 63px;
+        padding: 31px;
+    }
+    .line-1 {
+        margin-top: 18px;
+    }
+    .about-us {
+        font-size: 30px;
+    }
+    .asc-title h3 {
+        font-size: 20px;
+    }
+    .about-image{
+        margin-top: 20px;
+    }
+    .fe-h2 {
+        font-size: 19px;
+    }
+ }
+ /*Extra large devices (large desktops, 1200px and up)*/
+ @media (min-width: 1200px) and (max-width: 1399.98px) { 
+  
+  }
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+ 
+  
+}
